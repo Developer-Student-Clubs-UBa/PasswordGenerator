@@ -1,5 +1,5 @@
 # This is a sample Python script that takes  a users details and automatically generates a password.
-#different functions can be created or modified
+# different functions can be created or modified
 
 
 def password_gen():
